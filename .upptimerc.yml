@@ -10,7 +10,7 @@ sites:
       - 200 
 
   - name: API
-    url: https://api.wexler.ai/
+    url: https://ctty2sm3ct.eu-west-2.awsapprunner.com
     
 assignees: # Users to assign downtime issues (optional)
   - luisenriquecgongora
